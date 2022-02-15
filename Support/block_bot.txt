@@ -1,0 +1,15 @@
+ BLOCKED ISP || user-agent : Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:73.0) Gecko/20100101 Firefox/73.0
+ ip : 23.99.230.177 || 2020-2-27 ----> 17:23:05
+
+ BLOCKED ISP || user-agent : Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:73.0) Gecko/20100101 Firefox/73.0
+ ip : 23.99.230.177 || 2020-2-27 ----> 17:23:09
+
+ BLOCKED ISP || user-agent : Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:73.0) Gecko/20100101 Firefox/73.0
+ ip : 23.99.230.177 || 2020-2-27 ----> 18:33:37
+
+ BLOCKED ISP || user-agent : Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:73.0) Gecko/20100101 Firefox/73.0
+ ip : 23.99.230.177 || 2020-2-27 ----> 18:34:38
+
+ BLOCKED ISP || user-agent : Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.132 Safari/537.36
+ ip : 13.78.135.35 || 2020-3-05 ----> 16:58:41
+

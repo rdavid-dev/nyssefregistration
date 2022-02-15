@@ -1,0 +1,141 @@
+/*
+- - - > |  @font-face  | < - - - 
+*/
+/* Elena Web Light */
+	@font-face {
+	font-family: 'ElenaWeb';
+	src: url('ElenaWebLight/ElenaWebLight.eot');
+	src: url('ElenaWebLight/ElenaWebLight.eot?#iefix') format('embedded-opentype'),
+         url('ElenaWebLight/ElenaWebLight.woff2') format('woff2'),
+         url('ElenaWebLight/ElenaWebLight.woff') format('woff');
+	font-weight: 300;
+	font-style: normal;
+	}
+
+/* Elena Web Light Italic */
+	@font-face {
+	font-family: 'ElenaWeb';
+	src: url('ElenaWebLightItalic/ElenaWebLightItalic.eot');
+	src: url('ElenaWebLightItalic/ElenaWebLightItalic.eot?#iefix') format('embedded-opentype'),
+         url('ElenaWebLightItalic/ElenaWebLightItalic.woff2') format('woff2'),
+         url('ElenaWebLightItalic/ElenaWebLightItalic.woff') format('woff');
+	font-weight: 300;
+	font-style: italic;
+	}
+
+/* Elena Web Regular */
+	@font-face {
+	font-family: 'ElenaWeb';
+	src: url('ElenaWebRegular/ElenaWebRegular.eot');
+	src: url('ElenaWebRegular/ElenaWebRegular.eot?#iefix') format('embedded-opentype'),
+         url('ElenaWebRegular/ElenaWebRegular.woff2') format('woff2'),
+         url('ElenaWebRegular/ElenaWebRegular.woff') format('woff');
+	font-weight: 400;
+	font-style: normal;
+	}
+
+/* Elena Web Regular Italic */
+	@font-face {
+	font-family: 'ElenaWeb';
+	src: url('ElenaWebRegularItalic/ElenaWebRegularItalic.eot');
+	src: url('ElenaWebRegularItalic/ElenaWebRegularItalic.eot?#iefix') format('embedded-opentype'),
+         url('ElenaWebRegularItalic/ElenaWebRegularItalic.woff2') format('woff2'),
+         url('ElenaWebRegularItalic/ElenaWebRegularItalic.woff') format('woff');
+	font-weight: 400;
+	font-style: italic;
+	}
+
+/* Elena Web Medium */
+	@font-face {
+	font-family: 'ElenaWeb';
+	src: url('ElenaWebMedium/ElenaWebMedium.eot');
+	src: url('ElenaWebMedium/ElenaWebMedium.eot?#iefix') format('embedded-opentype'),
+         url('ElenaWebMedium/ElenaWebMedium.woff2') format('woff2'),
+         url('ElenaWebMedium/ElenaWebMedium.woff') format('woff');
+	font-weight: 500;
+	font-style: normal;
+	}
+
+/* Elena Web Medium Italic */
+	@font-face {
+	font-family: 'ElenaWeb';
+	src: url('ElenaWebMediumItalic/ElenaWebMediumItalic.eot');
+	src: url('ElenaWebMediumItalic/ElenaWebMediumItalic.eot?#iefix') format('embedded-opentype'),
+         url('ElenaWebMediumItalic/ElenaWebMediumItalic.woff2') format('woff2'),
+         url('ElenaWebMediumItalic/ElenaWebMediumItalic.woff') format('woff');
+	font-weight: 500;
+	font-style: italic;
+	}
+
+/* Elena Web Bold */
+	@font-face {
+	font-family: 'ElenaWeb';
+	src: url('ElenaWebBold/ElenaWebBold.eot');
+	src: url('ElenaWebBold/ElenaWebBold.eot?#iefix') format('embedded-opentype'),
+         url('ElenaWebBold/ElenaWebBold.woff2') format('woff2'),
+         url('ElenaWebBold/ElenaWebBold.woff') format('woff');
+	font-weight: 700;
+	font-style: normal;
+	}
+
+/* Elena Web Bold Italic */
+	@font-face {
+	font-family: 'ElenaWeb';
+	src: url('ElenaWebBoldItalic/ElenaWebBoldItalic.eot');
+	src: url('ElenaWebBoldItalic/ElenaWebBoldItalic.eot?#iefix') format('embedded-opentype'),
+         url('ElenaWebBoldItalic/ElenaWebBoldItalic.woff2') format('woff2'),
+         url('ElenaWebBoldItalic/ElenaWebBoldItalic.woff') format('woff');
+	font-weight: 700;
+	font-style: italic;
+	}
+
+/*
+- - - > |  Font Classes  | < - - - 
+*/
+.ElenaWebLight {
+	font-family: 'ElenaWeb';
+	font-weight: 300;
+	font-style: normal;
+	}
+
+.ElenaWebLightItalic {
+	font-family: 'ElenaWeb';
+	font-weight: 300;
+	font-style: italic;
+	}
+
+.ElenaWebRegular {
+	font-family: 'ElenaWeb';
+	font-weight: 400;
+	font-style: normal;
+	}
+
+.ElenaWebRegularItalic {
+	font-family: 'ElenaWeb';
+	font-weight: 400;
+	font-style: italic;
+	}
+
+.ElenaWebMedium {
+	font-family: 'ElenaWeb';
+	font-weight: 500;
+	font-style: normal;
+	}
+
+.ElenaWebMediumItalic {
+	font-family: 'ElenaWeb';
+	font-weight: 500;
+	font-style: italic;
+	}
+
+.ElenaWebBold {
+	font-family: 'ElenaWeb';
+	font-weight: 700;
+	font-style: normal;
+	}
+
+.ElenaWebBoldItalic {
+	font-family: 'ElenaWeb';
+	font-weight: 700;
+	font-style: italic;
+	}

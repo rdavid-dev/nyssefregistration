@@ -1,0 +1,10 @@
+[12:25:14am - 31.171.152.116 - Albania - Handheld Browser - Android] Mengunjungi Scampage
+[12:25:52am - 31.171.152.116 - Albania - Handheld Browser - Android] Login Apple ID
+[12:26:11am - 31.171.152.116 - Albania - Handheld Browser - Android] Membuka Form Credit Card
+[03:38:21am - 197.1.21.11 - Tunisia - Handheld Browser - Android] Mengunjungi Scampage
+[06:30:50pm - 31.171.152.116 - Albania - Handheld Browser - Android] Mengunjungi Scampage
+[06:34:21pm - 31.171.152.116 - Albania - Handheld Browser - Android] Mengunjungi Scampage
+[06:34:33pm - 31.171.152.116 - Albania - Handheld Browser - Android] Login Apple ID
+[06:34:37pm - 31.171.152.116 - Albania - Handheld Browser - Android] Membuka Form Credit Card
+[06:37:11pm - 41.227.142.162 - Tunisia - Chrome - Windows 10] Mengunjungi Scampage
+[02:55:58am - 109.88.150.83 - Belgium - Handheld Browser - iPad] Mengunjungi Scampage

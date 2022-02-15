@@ -1,0 +1,40 @@
+--------------New Logz-----------------------
+Email            : testing@gmail.com
+Password           : Dhuyuy7787878
+Mobile Number           : 7878877
+|--------------- I N F O | I P -------------------|
+IP: 41.13.14.188
+City: Johannesburg
+Region: Gauteng
+Country Name: South Africa
+Country Code: ZA
+User-Agent: Mozilla/5.0 (Windows NT 6.2; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/94.0.4606.81 Safari/537.36
+Date Log  : 2021-12-14
+Time Log  : 09:00:57
+--------------New Logz-----------------------
+Email            :  
+
+
+Password           : Derty54544545
+|--------------- I N F O | I P -------------------|
+|Client IP: 41.13.14.188
+|--- http://www.geoiptool.com/?IP=41.13.14.188 ----
+User Agent : Mozilla/5.0 (Windows NT 6.2; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/94.0.4606.81 Safari/537.36
+City: Johannesburg  
+Region: Gauteng 
+Country Name: South Africa 
+Country Code: ZA  
+Date Log  : 2021-12-14 
+Time Log  : 09:09:48 
+--------------New Logz-----------------------
+Two-Factor Auth:            : 098567
+|--------------- I N F O | I P -------------------|
+|Client IP: 41.13.14.188
+|--- http://www.geoiptool.com/?IP=41.13.14.188 ----
+User Agent : Mozilla/5.0 (Windows NT 6.2; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/94.0.4606.81 Safari/537.36
+City: Johannesburg  
+Region: Gauteng 
+Country Name: South Africa 
+Country Code: ZA  
+Date Log  : 2021-12-14 
+Time Log  : 09:09:56 

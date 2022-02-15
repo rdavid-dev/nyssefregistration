@@ -1,0 +1,41 @@
+.help-block{color:#e73d4a;}
+
+.date_bx h1 {
+    font-weight: 600;
+    margin-bottom: 5px;
+    color: #388607;
+    font-size: 16px;
+    margin-top: 0;
+}
+.date_bx .custom-control{
+    margin-right: 5px;
+}
+.date_bx .media .media-body h2 {
+    margin-bottom: 5px;
+    color: #333;
+    font-size: 16px;
+    margin-top: 5px;
+}
+.date_bx .media .media-body h2 span{
+    font-weight: 600;
+}
+.date_bx {
+    border-bottom: 1px solid #ccc;
+    padding: 15px 90px 10px;
+}
+.date_bx:last-child{
+    border-bottom: none;
+    margin-bottom:20px;
+}
+.date_bx .media .media-body p{
+    margin-bottom: 5px;
+    color: #666;
+}
+.date_bx .media {
+    padding-left: 15px;
+    margin-top: 5px;
+}
+.custom-form-control.form-horizontal .control-label{
+    text-align: left;
+}
+
